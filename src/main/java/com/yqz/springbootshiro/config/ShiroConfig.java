@@ -11,6 +11,9 @@ import org.springframework.context.annotation.Configuration;
 import java.util.HashMap;
 import java.util.LinkedHashMap;
 
+
+
+//config在编辑阶段就会执行
 @Configuration
 public class ShiroConfig {
 
